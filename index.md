@@ -10,7 +10,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
-**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+**Project Objective:** Predicting the survival of passenger on the basis of their age, gender, socio-economic class etc during the sinking of Titanic.
 
 **Quantifiable result:** We could predict whether or not the passenger survived the sinking of the Titanic.[**79.89%** accuracy](https://github.com/nchaudhary1/titanic/blob/main/Untitled52.ipynb).
 
@@ -39,7 +39,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[Identifying given picture is a Cat or a Dog](https://github.com/nchaudhary1/CatOrDogPrediction)
 
 <img src="images/Dog-and-Cat.jpeg?raw=true"/>
 
@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**77%** using **25** epochs](https://github.com/nchaudhary1/CatOrDogPrediction/blob/main/CNN59.ipynb).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
