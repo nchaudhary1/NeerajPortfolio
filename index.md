@@ -4,25 +4,25 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/nchaudhary1/LinearRegression_SeolBike)
+[Build a predictive model that answers 'what sorts of people were more likely to survive?' using passenger data like age, gender, class etc.](https://github.com/nchaudhary1/titanic)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/Titanic.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
 **Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
 
-**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/nchaudhary1/LinearRegression_SeolBike/blob/main/finalSeoulBike.ipynb).
+**Quantifiable result:** We could predict whether or not the passenger survived the sinking of the Titanic.[**79.89%** accuracy](https://github.com/nchaudhary1/titanic/blob/main/Untitled52.ipynb).
 
-- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
+- Used Logistic Regression  to predict whether or not the passsenger survived the sinking of Titanic. 
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
 - Cross Validation for validating the training data and model fit.
-- Fit a Random Forest Regressor with high prediction accuracy through iteration
+- Fit a Logistic regression model with high prediction accuracy through iteration
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/nchaudhary1/breastcancer)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Identification of the type of Breast Cancer for quicker diagnosis. This assists professionals in the medical field to take appropiate measures to accurately diagnose, treat and save lives. 
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
+**Quantifiable result:** We could Classify the type of tumor resulting in [**99%** accuracy using Logistic Regression](https://github.com/nchaudhary1/breastcancer/blob/main/breastcancer.ipynb).
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
