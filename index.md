@@ -53,3 +53,57 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Training model on basis of given data
 - Fitting the CNN to see if the provided image is dog or cat
 - Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
+
+***
+
+[K-Means clustering model for State authorities/Policy makers](https://github.com/nchaudhary1/marketing_campaign)
+
+<img src="images/marketing_campaign.jpeg?raw=true"/>
+ 
+<b>Skills used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Sklearn, K-Means clustering
+
+<b>Project objctive: </b> Based on the K-Means clustering model we could give useful insights to the authorities to group the people into respective catagories
+
+<b>Quantifiable Result:</b> Based on the model all were grouped into 3 clusters, so k = 3, which got justified by Schilhoutee score = 0.931
+
+   - Fitted the data to clustering model
+   - Calculated the number of clusters for the data
+   - Fitted the model with K-Means and Hierarchical clustering
+   - Compared the resluts for both methods
+   - Calculated the Schiloutee score of the model which was 0.931
+   
+ ***
+ 
+ [Implementing Deep Neutral Network with Keras for handwritting classification and recognition](https://github.com/nchaudhary1/deep_neural_final)
+
+ <img src="images/neural.png?raw=true"/>
+
+<b>Skills Used:</b> Matplotlib, numpy, Seaborn, Sklearn, Python, Neural Networking, Keras, Tensorflow
+
+<b>Project Objective:</b> Implementing Deep Neural Network with Keras for handwritting classification and recognition
+
+<b>Quantifiable Results:</b>
+
+  - Loss = 0.26 - 0.03 = Final Model Eval = 98.7%
+  - Load the data
+  - Initial data indagation
+  - Initial EDA
+  - Data Prepping
+  - Model contruction
+  - Model eval
+  - Model eval metrics
+
+ ***
+ 
+ [Predicting customer subscription for term deposit](https://github.com/nchaudhary1/LogisticRegresion_project)
+<img src=“images/banking.jpg?raw=true”/>
+<b>Skills used:</b> Python, Numpy, Pandas, Matplotlib, Seaborn, SKlearn, Logistic Regression, SMOTE, RFE
+<b>Project Objective:</b> Used logistic regression to predict customer subscriptions for there term deposit (Used real worked data from UCI, machine learning repository)
+<b>Quantifiable Results:</b> Used Logistic regression classifier got 86.09 % of model accuracy which helps the bank to estimate their depositors in advance
+  - Used logistic regression to explore and make note of attributes information
+  - Use data cleaning principles to get rid of the unwanted data
+  - Explore data with groupby function and analyzing it
+  - Used Logistic regression classifier to improve on the data to make better prediction on whether the client will subcribe or not
+  - Explored a machine learning approach to predict by using Sklearn numeric
+***
+ 
