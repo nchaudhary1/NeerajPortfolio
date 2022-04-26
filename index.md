@@ -96,7 +96,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
  ***
  
  [Predicting customer subscription for term deposit](https://github.com/nchaudhary1/LogisticRegresion_project)
+ 
 <img src="images/banking.jpeg?raw=true"/>
+
+
 <b>Skills used:</b> Python, Numpy, Pandas, Matplotlib, Seaborn, SKlearn, Logistic Regression, SMOTE, RFE
 <b>Project Objective:</b> Used logistic regression to predict customer subscriptions for there term deposit (Used real worked data from UCI, machine learning repository)
 <b>Quantifiable Results:</b> Used Logistic regression classifier got 86.09 % of model accuracy which helps the bank to estimate their depositors in advance
