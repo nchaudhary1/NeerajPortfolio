@@ -101,8 +101,11 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 
 <b>Skills used:</b> Python, Numpy, Pandas, Matplotlib, Seaborn, SKlearn, Logistic Regression, SMOTE, RFE
+
 <b>Project Objective:</b> Used logistic regression to predict customer subscriptions for there term deposit (Used real worked data from UCI, machine learning repository)
+
 <b>Quantifiable Results:</b> Used Logistic regression classifier got 86.09 % of model accuracy which helps the bank to estimate their depositors in advance
+
   - Used logistic regression to explore and make note of attributes information
   - Use data cleaning principles to get rid of the unwanted data
   - Explore data with groupby function and analyzing it
